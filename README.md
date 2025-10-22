@@ -12,6 +12,9 @@ The input lag for these adapters is minimal. Here is the result of the Sega cont
 ## How to assemble the adapters
 See the README files in the subfolders for build instructions. All the adapters are build around the Arduino Pro Micro.
 
+## How to test controllers
+[https://greggman.github.io/html5-gamepad-test/](https://greggman.github.io/html5-gamepad-test/)
+
 ## Building the projects
 You will need the [Arduino IDE](https://www.arduino.cc/en/Main/Software) to build the projects. Download the whole repository via the "Clone or download" button, open the project you want to build in the IDE and select "Arduino Leonardo" in Tools / Board. Connect the Arduino to a USB port and build/upload from Scetch / Upload.
 
