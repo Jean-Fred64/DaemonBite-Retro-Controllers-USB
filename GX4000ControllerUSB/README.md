@@ -12,4 +12,4 @@ This is a simple to build adapter for connecting GX4000 to USB. It supports 2 bu
 This project is licensed under the GNU General Public License v3.0.
 
 ## Credits
-The Mega Drive gamepad interface is based on this repository : https://github.com/jonthysell/SegaController but almost entirely rewritten and a lot of optimisations have been made.
+The Mega Drive gamepad interface is based on this repository : [https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB)](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB)
