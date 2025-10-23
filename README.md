@@ -18,6 +18,15 @@ See the README files in the subfolders for build instructions. All the adapters 
 ## Building the projects
 You will need the [Arduino IDE](https://www.arduino.cc/en/Main/Software) to build the projects. Download the whole repository via the "Clone or download" button, open the project you want to build in the IDE and select "Arduino Leonardo" in Tools / Board. Connect the Arduino to a USB port and build/upload from Scetch / Upload.
 
+## Useful links :wink:
+[Pinout joystick chart of compatible_systems](https://en.wikipedia.org/wiki/Atari_joystick_port#Chart_of_compatible_systems)
+<img width="1127" height="808" alt="image" src="https://github.com/user-attachments/assets/d5ddb8d7-fa64-4eae-bf17-4d774ad6f153" />
+
+
+[DE-9 Joystick](https://wiki.icomp.de/wiki/DE-9_Joystick)
+<img width="1562" height="658" alt="image" src="https://github.com/user-attachments/assets/89a423b2-8699-4096-80a3-c7082165e9c6" />
+
+
 ## License
 This project is licensed under the GNU General Public License v3.0. The name "daemonbite" is registered to my company in Finland and should not be used by others.
 
