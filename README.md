@@ -19,7 +19,7 @@ See the README files in the subfolders for build instructions. All the adapters 
 You will need the [Arduino IDE](https://www.arduino.cc/en/Main/Software) to build the projects. Download the whole repository via the "Clone or download" button, open the project you want to build in the IDE and select "Arduino Leonardo" in Tools / Board. Connect the Arduino to a USB port and build/upload from Scetch / Upload.
 
 ## Useful links :wink:
-[Pinout joystick chart of compatible_systems](https://en.wikipedia.org/wiki/Atari_joystick_port#Chart_of_compatible_systems)
+[Pinout joystick chart of compatible systems](https://en.wikipedia.org/wiki/Atari_joystick_port#Chart_of_compatible_systems)
 <img width="1127" height="808" alt="image" src="https://github.com/user-attachments/assets/d5ddb8d7-fa64-4eae-bf17-4d774ad6f153" />
 
 
