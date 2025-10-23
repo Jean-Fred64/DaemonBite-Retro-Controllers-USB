@@ -1,4 +1,4 @@
-# DaemonBite GX4000 Controller To USB Adapter version FR & EN
+# DaemonBite GX4000 Controller To USB Adapter version :fr: FR & :gb: EN
 ## Introduction
 This is a simple to build adapter for connecting GX4000 to USB. It supports 2 buttons.
 
